@@ -30,7 +30,7 @@ addons.register(ADDON_ID, () => {
   // Register the tab
   addons.add(TAB_ID, {
     type: types.TAB,
-    title: "My addon",
+    title: "Analytics",
     render: Tab,
   });
 });
