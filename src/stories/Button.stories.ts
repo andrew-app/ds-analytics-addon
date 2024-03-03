@@ -12,7 +12,7 @@ const meta: Meta<typeof Button> = {
   },
   tags: ["autodocs"],
   parameters: {
-    componentName: 'GDSButton',
+    componentName: 'Button',
   },
 };
 

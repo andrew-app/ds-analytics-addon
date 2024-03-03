@@ -9,7 +9,7 @@ const meta: Meta<typeof Page> = {
   parameters: {
     // More on Story layout: https://storybook.js.org/docs/react/configure/story-layout
     layout: 'fullscreen',
-    componentName: 'GDSPage'
+    componentName: 'Page'
   },
 };
 
